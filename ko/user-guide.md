@@ -9,6 +9,7 @@ Deep Learning Instance를 사용하기 위해서 먼저 인스턴스를 생성�
 **Deep Learning Instance 생성** 버튼을 클릭하면 **Machine Learning > Deep Learning Instance > 인스턴스 생성**으로 이동합니다.
 
 Deep Learning Instance에서는 다음과 같은 버전의 소프트웨어가 제공됩니다.
+
 | 소프트웨어 | 버전 | 설치 방식 |
 | --- | --- | --- | 
 | TensorFlow | 2.4.1 | pip, [참조](https://www.tensorflow.org/install/pip) |
