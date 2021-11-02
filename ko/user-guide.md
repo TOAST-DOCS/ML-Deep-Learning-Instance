@@ -40,18 +40,21 @@ pt_py38                  /root/miniconda3/envs/pt_py38
 tf2_py38                 /root/miniconda3/envs/tf2_py38
 ```
 
->[참고] 
+>[참고]
+>
 >더 자세한 사용법은 [Miniconda](https://docs.conda.io/en/latest/miniconda.html)을 참고하세요.
 
 ## TensorFlow 사용 방법
 
 TensorFlow 환경 활성화
+
 ```
 (base) root@b64e6a035884:~# conda activate tf2_py38
 (tf2_py38) root@b64e6a035884:~#
 ```
 
 TensorFlow 트레이닝 테스트
+
 ```
 $ cd ~/
 $ git clone https://github.com/tensorflow/models.git
@@ -72,7 +75,7 @@ export NCCL_DEBUG=INFO
 MODEL_DIR=$HOME/models/model
 DATA_DIR=$HOME/models/dataset
 # 1개 이상의 GPU를 사용 시 설정
-NUM_GPUS=2
+NUM_GPUS=1 # 예) NUM_GPUS=2
 
 python $HOME/models/official/vision/image_classification/mnist_main.py \
   --model_dir=$MODEL_DIR \
@@ -87,11 +90,13 @@ $ python ./train.sh
 ```
 
 >[참고]
+>
 >더 자세한 사용법은 [TensorFlow Tutorials](https://www.tensorflow.org/tutorials)을 참고하세요.
 
 ## PyTorch 사용 방법
 
 PyTorch 환경 활성화
+
 ```
 (tf2_py38) root@b64e6a035884:~# conda deactivate
 (base) root@b64e6a035884:~# conda activate pt_py38
@@ -99,6 +104,7 @@ PyTorch 환경 활성화
 ```
 
 PyTorch 트레이닝 테스트
+
 ```
 $ cd ~/
 $ git clone https://github.com/pytorch/examples.git
@@ -106,5 +112,6 @@ $ cd examples/mnist
 $ python manin.py --epochs 1
 ```
 
-> [참고]
-> 더 자세한 사용법은 [PyTorch Tutorials](https://pytorch.org/tutorials/)을 참고하세요.
+>[참고]
+>
+>더 자세한 사용법은 [PyTorch Tutorials](https://pytorch.org/tutorials/)을 참고하세요.
