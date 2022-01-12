@@ -5,6 +5,6 @@ CPU, GPU, 메모리, 디스크를 선택하여 원하는 스펙의 인스턴스�
 
 ## 기능
 
-- 필수 소프트웨어 제공: NVIDIA Driver, Fabric manager(NVLink), CUDA, cuDNN, Intel oneAPI MKL
-- 머신러닝 프레임워크 및 개발 환경 제공: Miniconda, TensorFlow, PyTorch, SciPy, scikit-learn, pandas, matplotlib, JupyterLab, ONNX
+- 필수 소프트웨어 제공: NVIDIA Driver, Fabric Manager(NVLink), CUDA, cuDNN, Intel oneAPI MKL
+- 머신러닝 프레임워크 및 개발 환경 제공: Miniconda, TensorFlow, PyTorch, SciPy, scikit-learn, pandas, Matplotlib, JupyterLab, ONNX
 - 기타 머신러닝 소프트웨어 제공: NVIDIA NCCL, TensorRT
