@@ -4,7 +4,7 @@
 
 Deep Learning Instanceを使用するには、まずインスタンスを作成する必要があります。
 
-![deeplearninginstance_guide_ko_01_20211013.png](https://static.toastoven.net/prod_deep_learning_instance/deeplearninginstance_guide_ko_01_20211013.png)
+![deeplearninginstance_guide_jp_01_20211013.png](https://static.toastoven.net/prod_deep_learning_instance/deeplearninginstance_guide_jp_01_20211013.png)
 
 **Deep Learning Instance作成**ボタンをクリックすると**Machine Learning > Deep Learning Instance > インスタンス作成**に移動します。
 
@@ -23,9 +23,9 @@ Deep Learning Instanceでは次のバージョンのソフトウェアが提供�
 | NVIDIA TensorRT | 7.1.3 | apt |
 | Intel oneAPI MKL | 2021.4.0 | apt |
 
-![deeplearninginstance_guide_ko_02_20211013.png](https://static.toastoven.net/prod_deep_learning_instance/deeplearninginstance_guide_ko_02_20211013.png)
+![deeplearninginstance_guide_jp_02_20211013.png](https://static.toastoven.net/prod_deep_learning_instance/deeplearninginstance_guide_jp_02_20211013.png)
 
-設定を完了した後にインスタンスを作成します。インスタンス作成の詳細については[Instance概要](http://docs.toast.com/ko/Compute/Instance/ko/overview/)を参照してください。
+設定を完了した後にインスタンスを作成します。インスタンス作成の詳細については[Instance概要](http://docs.toast.com/jp/Compute/Instance/jp/overview/)を参照してください。
 
 ## インストールされた開発環境の確認
 
