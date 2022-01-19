@@ -4,7 +4,7 @@
 
 To use the Deep Learning Instance, you must first create an instance.
 
-![deeplearninginstance_guide_en_01_20211013.png](https://static.toastoven.net/prod_deep_learning_instance/deeplearninginstance_guide_en_01_20211013.png)
+![deeplearninginstance_guide_zh_01_20211013.png](https://static.toastoven.net/prod_deep_learning_instance/deeplearninginstance_guide_zh_01_20211013.png)
 
 Click the **Create Deep Learning Instance** button, and you will be taken to **Machine Learning > Deep Learning Instance > Create Instance**.
 
@@ -23,9 +23,9 @@ Deep Learning Framework Instance provides the following versions of software:
 | NVIDIA TensorRT | 7.1.3 | apt |
 | Intel oneAPI MKL | 2021.4.0 | apt |
 
-![deeplearninginstance_guide_en_02_20211013.png](https://static.toastoven.net/prod_deep_learning_instance/deeplearninginstance_guide_en_02_20211013.png)
+![deeplearninginstance_guide_zh_02_20211013.png](https://static.toastoven.net/prod_deep_learning_instance/deeplearninginstance_guide_zh_02_20211013.png)
 
-After completing the setup, create an instance. For more information on instance creation, see [Instance Overview](http://docs.toast.com/en/Compute/Instance/en/overview/).
+After completing the setup, create an instance. For more information on instance creation, see [Instance Overview](http://docs.toast.com/zh/Compute/Instance/zh/overview/).
 
 ## Check Installed Development Environment
 
