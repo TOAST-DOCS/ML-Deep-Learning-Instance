@@ -10,18 +10,14 @@ Click the **Create Deep Learning Instance** button, and you will be taken to **M
 
 Deep Learning Framework Instance provides the following versions of software:
 
-| Software | Version | Installation method |
-| --- | --- | --- | 
-| TensorFlow | 2.4.1 | pip, [Reference](https://www.tensorflow.org/install/pip) |
-| PyTorch | 1.7.1 | conda, [Reference](https://pytorch.org/get-started/previous-versions/) |
-| Python | 3.8.11 | conda |
-| OS | Ubuntu 18.04 LTS | N/A |
-| NVIDIA Driver | 450.102.04 | apt |
-| NVIDIA CUDA | 11.0 | apt |
-| NVIDIA cuDNN | 8.0.4 | apt |
-| NVIDIA NCCL | 2.7.8 | apt |
-| NVIDIA TensorRT | 7.1.3 | apt |
-| Intel oneAPI MKL | 2021.4.0 | apt |
+| Version | Deep Learning Framework | NVIDIA CUDA | NVIDIA cuDNN | OS | 
+| --- | --- | --- | --- | --- |
+| v2.0 | TensorFlow 2.9 | 11.2 | 8.1 | Ubuntu 20.04 |
+| | PyTorch 1.12 | 11.6 | 8.2 | Ubuntu 20.04 |
+
+This software includes the source code <br> provided by NVIDIA Corporation. [License](https://docs.nvidia.com/deeplearning/cudnn/sla/index.html)
+
+<br>
 
 ![deeplearninginstance_guide_en_02_20211013.png](https://static.toastoven.net/prod_deep_learning_instance/deeplearninginstance_guide_en_02_20211013.png)
 

@@ -10,18 +10,14 @@ Deep Learning Instanceを使用するには、まずインスタンスを作成�
 
 Deep Learning Instanceでは次のバージョンのソフトウェアが提供されます。
 
-| ソフトウェア | バージョン | インストール方式 |
-| --- | --- | --- | 
-| TensorFlow | 2.4.1 | pip, [参照](https://www.tensorflow.org/install/pip) |
-| PyTorch | 1.7.1 | conda, [参照](https://pytorch.org/get-started/previous-versions/) |
-| Python | 3.8.11 | conda |
-| OS | Ubuntu 18.04 LTS | n/a |
-| NVIDIA Driver | 450.102.04 | apt |
-| NVIDIA CUDA | 11.0 | apt |
-| NVIDIA cuDNN | 8.0.4 | apt |
-| NVIDIA NCCL | 2.7.8 | apt |
-| NVIDIA TensorRT | 7.1.3 | apt |
-| Intel oneAPI MKL | 2021.4.0 | apt |
+| Version | Deep Learning Framework | NVIDIA CUDA | NVIDIA cuDNN | OS | 
+| --- | --- | --- | --- | --- |
+| v2.0 | TensorFlow 2.9 | 11.2 | 8.1 | Ubuntu 20.04 |
+| | PyTorch 1.12 | 11.6 | 8.2 | Ubuntu 20.04 |
+
+このソフトウェアにはNVIDIA Corporationで<br> 提供したソースコードが含まれています。 [License](https://docs.nvidia.com/deeplearning/cudnn/sla/index.html)
+
+<br>
 
 ![deeplearninginstance_guide_ja_02_20211013.png](https://static.toastoven.net/prod_deep_learning_instance/deeplearninginstance_guide_ja_02_20211013.png)
 
