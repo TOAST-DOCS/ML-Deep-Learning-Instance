@@ -10,7 +10,7 @@ Deep Learning Instance를 사용하려면 먼저 인스턴스를 생성해야 �
 
 Deep Learning Instance에서는 다음과 같은 버전의 소프트웨어가 제공됩니다.
 
-| Date | Deep Learning Framework | NVIDIA CUDA | NVIDIA cuDNN | OS | 
+| Version | Deep Learning Framework | NVIDIA CUDA | NVIDIA cuDNN | OS | 
 | --- | --- | --- | --- | --- |
 | v2.0 | TensorFlow 2.9 | 11.2 | 8.1 | Ubuntu 20.04 |
 | | PyTorch 1.12 | 11.6 | 8.2 | Ubuntu 20.04 |
