@@ -10,8 +10,10 @@ Click the **Create Deep Learning Instance** button, and you will be taken to **M
 
 Deep Learning Framework Instance provides the following versions of software:
 
-| Version | Deep Learning Framework | NVIDIA CUDA | NVIDIA cuDNN | OS | 
+| Version | Deep Learning Framework | NVIDIA CUDA | NVIDIA cuDNN | OS |
 | --- | --- | --- | --- | --- |
+| v3.0 | TensorFlow 2.12 | 11.8 | 8.6 | Ubuntu 20.04 |
+| | PyTorch 2.0 | 11.8 | 8.7 | Ubuntu 20.04 |
 | v2.0 | TensorFlow 2.9 | 11.2 | 8.1 | Ubuntu 20.04 |
 | | PyTorch 1.12 | 11.6 | 8.2 | Ubuntu 20.04 |
 
