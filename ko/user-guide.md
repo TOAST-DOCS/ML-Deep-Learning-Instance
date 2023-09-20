@@ -18,9 +18,11 @@ Deep Learning Instance에서는 다음과 같은 버전의 소프트웨어가 �
 | | PyTorch 1.12 | 11.6 | 8.2 | Ubuntu 20.04 |
 
 NVIDIA cuDNN 이 소프트웨어에는 NVIDIA Corporation에서 제공한 소스 코드가 포함되어 있습니다. [License](https://docs.nvidia.com/deeplearning/cudnn/sla/index.html)
+
 <br>
-Deep Learning Instance는 Python 패키지 관리자로 기본 패키지 저장소가 무료 저장소인 conda forge와 무료 Miniforge를 사용합니다.
-패키지 관리자를 Anaconda, Miniconda를 사용하거나 저장소를 Anaconda.com과 같은 유료를 사용할 경우, 관련 사이트에서 유료 라이선스 구매 여부를 확인 후, 사용하시기 바랍니다.
+
+Deep Learning Instance는 Miniforge를 Python 패키지 관리자로 사용하고, conda forge를 패키지 저장소로 이용하고 있습니다.
+Anaconda나 Miniconda를 Python 패키지 관리자로 사용하여 Anaconda의 repository를 이용하고자 하는 경우에는 Anaconda의 라이선스 정책을 확인하신 후, 사용하시기 바랍니다.
 
 <br>
 
