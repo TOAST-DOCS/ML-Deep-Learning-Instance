@@ -22,7 +22,7 @@ NVIDIA cuDNN 이 소프트웨어에는 NVIDIA Corporation에서 제공한 소스
 <br>
 
 Deep Learning Instance는 Miniforge를 Python 패키지 관리자로 사용하고, conda forge를 패키지 저장소로 이용하고 있습니다.
-Anaconda나 Miniconda를 Python 패키지 관리자로 사용하여 Anaconda의 repository를 이용하고자 하는 경우에는 Anaconda의 라이선스 정책을 확인하신 후, 사용하시기 바랍니다.
+Anaconda나 Miniconda를 Python 패키지 관리자로 사용하여 Anaconda의 리포지토리를 이용하고자 하는 경우에는 Anaconda의 라이선스 정책을 확인하신 후, 사용하시기 바랍니다.
 
 <br>
 
