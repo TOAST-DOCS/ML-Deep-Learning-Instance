@@ -21,6 +21,11 @@ This software includes the source code <br> provided by NVIDIA Corporation. [Lic
 
 <br>
 
+Deep Learning Instance uses Miniforge as its Python package manager and conda forge as its package repository.
+If you want to use Anaconda or Miniconda as your Python package manager and use Anaconda's repository, please check Anaconda's license policy before using it.
+
+<br>
+
 ![deeplearninginstance_guide_zh_02_20211013.png](https://static.toastoven.net/prod_deep_learning_instance/deeplearninginstance_guide_zh_02_20211013.png)
 
 After completing the setup, create an instance. For more information on instance creation, see [Instance Overview](http://docs.toast.com/zh/Compute/Instance/zh/overview/).
