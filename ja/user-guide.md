@@ -21,6 +21,11 @@ Deep Learning Instanceでは次のバージョンのソフトウェアが提供�
 
 <br>
 
+Deep Learning InstanceはMiniforgeをPythonパッケージマネージャーとして使用し、conda forgeをパッケージリポジトリとして利用しています。
+AnacondaやMinicondaをPythonパッケージマネージャとして使用してAnacondaのリポジトリを利用したい場合は、Anacondaのライセンスポリシーを確認してから使用してください。
+
+<br>
+
 ![deeplearninginstance_guide_ja_02_20211013.png](https://static.toastoven.net/prod_deep_learning_instance/deeplearninginstance_guide_ja_02_20211013.png)
 
 設定を完了した後にインスタンスを作成します。インスタンス作成の詳細については[Instance概要](http://docs.toast.com/ja/Compute/Instance/ja/overview/)を参照してください。
