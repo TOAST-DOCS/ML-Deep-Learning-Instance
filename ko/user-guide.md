@@ -21,6 +21,11 @@ NVIDIA cuDNN 이 소프트웨어에는 NVIDIA Corporation에서 제공한 소스
 
 <br>
 
+Deep Learning Instance는 Miniforge를 Python 패키지 관리자로 사용하고, conda forge를 패키지 저장소로 이용하고 있습니다.
+Anaconda나 Miniconda를 Python 패키지 관리자로 사용하여 Anaconda의 리포지토리를 이용하고자 하는 경우에는 Anaconda의 라이선스 정책을 확인하신 후, 사용하시기 바랍니다.
+
+<br>
+
 ![deeplearninginstance_guide_ko_02_20211013.png](https://static.toastoven.net/prod_deep_learning_instance/deeplearninginstance_guide_ko_02_20211013.png)
 
 설정을 완료한 후 인스턴스를 생성합니다. 인스턴스 생성에 대한 자세한 내용은 [Instance 개요](http://docs.toast.com/ko/Compute/Instance/ko/overview/)를 참고하시기 바랍니다.
