@@ -12,6 +12,8 @@ Deep Learning Instance에서는 다음과 같은 버전의 소프트웨어가 �
 
 | Version | Deep Learning Framework | NVIDIA CUDA | NVIDIA cuDNN | OS |
 | --- | --- | --- | --- | --- |
+| v4.0.0 | TensorFlow 2.16 | 12.2 | 8.9 | Ubuntu 22.04 |
+| | PyTorch 2.2 | 12.1 | 8.9 | Ubuntu 22.04 |
 | v3.1.0 | TensorFlow 2.12.1 | 11.8 | 8.6 | Ubuntu 22.04 |
 | | PyTorch 2.0.1 | 11.8 | 8.7 | Ubuntu 22.04 |
 
