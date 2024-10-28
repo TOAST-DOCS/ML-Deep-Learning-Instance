@@ -19,7 +19,7 @@ Deep Learning Framework Instance provides the following versions of software:
 | v3.1.1 | TensorFlow 2.12.1 | 11.8 | 8.6 | Ubuntu 22.04 |
 | | PyTorch 2.0.1 | 11.8 | 8.7 | Ubuntu 22.04 |
 
-This software includes the source code <br> provided by NVIDIA Corporation. [License](https://docs.nvidia.com/deeplearning/cudnn/sla/index.html)
+This software includes the source code <br> provided by NVIDIA Corporation. [License](https://docs.nvidia.com/deeplearning/cudnn/latest/reference/eula.html)
 
 <br>
 
