@@ -19,7 +19,7 @@ Deep Learning Instanceでは次のバージョンのソフトウェアが提供�
 | v3.1.1 | TensorFlow 2.12.1 | 11.8 | 8.6 | Ubuntu 22.04 |
 | | PyTorch 2.0.1 | 11.8 | 8.7 | Ubuntu 22.04 |
 
-このソフトウェアにはNVIDIA Corporationで<br> 提供したソースコードが含まれています。 [License](https://docs.nvidia.com/deeplearning/cudnn/sla/index.html)
+このソフトウェアにはNVIDIA Corporationで<br> 提供したソースコードが含まれています。 [License](https://docs.nvidia.com/deeplearning/cudnn/latest/reference/eula.html)
 
 <br>
 
