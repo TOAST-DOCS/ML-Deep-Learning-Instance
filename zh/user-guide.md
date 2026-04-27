@@ -12,10 +12,10 @@ Deep Learning Framework Instance provides the following versions of software:
 
 | Version | Deep Learning Framework | NVIDIA CUDA | NVIDIA cuDNN | OS |
 | --- | --- | --- | --- | --- |
-| v7.0.0 | TensorFlow 2.19 | 12.5 | 9.3 | Ubuntu 22.04 |
+| v8.0.0 | TensorFlow 2.20 | 12.5 | 9.3 | Ubuntu 22.04 |
+| | PyTorch 2.10 | 12.6 | 9.10 | Ubuntu 22.04 |
+| v7.0.1 | TensorFlow 2.19 | 12.5 | 9.3 | Ubuntu 22.04 |
 | | PyTorch 2.7 | 12.6 | 9.5 | Ubuntu 22.04 |
-| v6.0.1 | TensorFlow 2.18 | 12.5 | 9.3 | Ubuntu 22.04 |
-| | PyTorch 2.5 | 12.4 | 9.1 | Ubuntu 22.04 |
 
 This software includes the source code <br> provided by NVIDIA Corporation. [License](https://docs.nvidia.com/deeplearning/cudnn/latest/reference/eula.html)
 
