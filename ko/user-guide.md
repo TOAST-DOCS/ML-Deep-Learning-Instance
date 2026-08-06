@@ -1,6 +1,10 @@
-## Machine Learning > Deep Learning Instance > 사용 가이드
+<!-- pre-align:aligned sig=b04e267f91c6 -->
 
-## Deep Learning Instance 생성
+<a id="machine-learning-deep-learning-instance-user-guide"></a>
+## Machine Learning > Deep Learning Instance > 사용 가이드 { #machine-learning-deep-learning-instance-user-guide }
+
+<a id="create-a-deep-learning-instance"></a>
+## Deep Learning Instance 생성 { #create-a-deep-learning-instance }
 
 Deep Learning Instance를 사용하려면 먼저 인스턴스를 생성해야 합니다.
 
@@ -30,7 +34,8 @@ Anaconda나 Miniconda를 Python 패키지 관리자로 사용하여 Anaconda의 
 
 설정을 완료한 후 인스턴스를 생성합니다. 인스턴스 생성에 대한 자세한 내용은 [Instance 개요](http://docs.toast.com/ko/Compute/Instance/ko/overview/)를 참고하시기 바랍니다.
 
-## 설치된 개발 환경 확인
+<a id="check-installed-development-environment"></a>
+## 설치된 개발 환경 확인 { #check-installed-development-environment }
 
 conda 명령어를 사용하여 Miniconda로 설치된 개발 환경을 확인합니다.
 
@@ -49,7 +54,8 @@ tf2_py38                 /root/miniconda3/envs/tf2_py38
 >
 >더 자세한 사용법은 [Miniconda 문서](https://docs.conda.io/en/latest/miniconda.html)를 참고하세요.
 
-## TensorFlow 사용 방법
+<a id="how-to-use-tensorflow"></a>
+## TensorFlow 사용 방법 { #how-to-use-tensorflow }
 
 먼저 TensorFlow 환경을 활성화합니다.
 
@@ -98,7 +104,8 @@ $ ./train.sh
 >
 >더 자세한 사용법은 [TensorFlow 튜토리얼](https://www.tensorflow.org/tutorials)을 참고하세요.
 
-## PyTorch 사용 방법
+<a id="how-to-use-pytorch"></a>
+## PyTorch 사용 방법 { #how-to-use-pytorch }
 
 먼저 PyTorch 환경을 활성화합니다.
 
