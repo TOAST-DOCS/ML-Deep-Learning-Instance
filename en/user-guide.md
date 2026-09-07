@@ -1,6 +1,10 @@
-## Machine Learning > Deep Learning Instance > User Guide
+<!-- pre-align:aligned sig=b04e267f91c6 -->
 
-## Create a Deep Learning Instance
+<a id="machine-learning-deep-learning-instance-user-guide"></a>
+## Machine Learning > Deep Learning Instance > User Guide { #machine-learning-deep-learning-instance-user-guide }
+
+<a id="create-a-deep-learning-instance"></a>
+## Create a Deep Learning Instance { #create-a-deep-learning-instance }
 
 To use the Deep Learning Instance, you must first create an instance.
 
@@ -30,7 +34,8 @@ If you want to use Anaconda or Miniconda as your Python package manager and use 
 
 After completing the setup, create an instance. For more information on instance creation, see [Instance Overview](http://docs.toast.com/en/Compute/Instance/en/overview/).
 
-## Check Installed Development Environment
+<a id="check-installed-development-environment"></a>
+## Check Installed Development Environment { #check-installed-development-environment }
 
 Use the conda command to check the development environment installed by Miniconda.
 
@@ -49,7 +54,8 @@ tf2_py38                 /root/miniconda3/envs/tf2_py38
 >
 >For more detailed instructions, refer to [Miniconda documentation](https://docs.conda.io/en/latest/miniconda.html).
 
-## How to Use TensorFlow
+<a id="how-to-use-tensorflow"></a>
+## How to Use TensorFlow { #how-to-use-tensorflow }
 
 First, activate the TensorFlow environment.
 
@@ -98,7 +104,8 @@ $ ./train.sh
 >
 >For more detailed instructions, refer to [TensorFlow Tutorial](https://www.tensorflow.org/tutorials).
 
-## How to Use PyTorch
+<a id="how-to-use-pytorch"></a>
+## How to Use PyTorch { #how-to-use-pytorch }
 
 First, activate the PyTorch environment.
 
