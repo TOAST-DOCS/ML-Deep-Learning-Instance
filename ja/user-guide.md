@@ -1,6 +1,10 @@
-## Machine Learning > Deep Learning Instance > 使用ガイド
+<!-- pre-align:aligned sig=b04e267f91c6 -->
 
-## Deep Learning Instance作成
+<a id="machine-learning-deep-learning-instance-user-guide"></a>
+## Machine Learning > Deep Learning Instance > 使用ガイド { #machine-learning-deep-learning-instance-user-guide }
+
+<a id="create-a-deep-learning-instance"></a>
+## Deep Learning Instance作成 { #create-a-deep-learning-instance }
 
 Deep Learning Instanceを使用するには、まずインスタンスを作成する必要があります。
 
@@ -30,7 +34,8 @@ AnacondaやMinicondaをPythonパッケージマネージャとして使用して
 
 設定を完了した後にインスタンスを作成します。インスタンス作成の詳細については[Instance概要](http://docs.toast.com/ja/Compute/Instance/ja/overview/)を参照してください。
 
-## インストールされた開発環境の確認
+<a id="check-installed-development-environment"></a>
+## インストールされた開発環境の確認 { #check-installed-development-environment }
 
 condaコマンドを使用してMinicondaにインストールされた開発環境を確認します。
 
@@ -49,7 +54,8 @@ tf2_py38                 /root/miniconda3/envs/tf2_py38
 >
 >詳細な使用方法については[Miniconda文書](https://docs.conda.io/en/latest/miniconda.html)を参考してください。
 
-## TensorFlowの使い方
+<a id="how-to-use-tensorflow"></a>
+## TensorFlowの使い方 { #how-to-use-tensorflow }
 
 まずTensorFlow環境を有効にします。
 
@@ -98,7 +104,8 @@ $ ./train.sh
 >
 >詳細な使用方法については[TensorFlowチュートリアル](https://www.tensorflow.org/tutorials)を参照してください。
 
-## PyTorchの使い方
+<a id="how-to-use-pytorch"></a>
+## PyTorchの使い方 { #how-to-use-pytorch }
 
 まずPyTorch環境を有効にします。
 
