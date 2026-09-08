@@ -15,11 +15,11 @@ Deep Learning Instanceを使用するには、まずインスタンスを作成�
 Deep Learning Instanceでは次のバージョンのソフトウェアが提供されます。
 
 | Version | Deep Learning Framework | NVIDIA CUDA | NVIDIA cuDNN | OS |
-| --- | --- | --- | --- | --- |
+|---------|------------------------|-------------|--------------|-----|
+| v9.0.0 | TensorFlow 2.21 | 12.5 | 9.3 | Ubuntu 24.04 |
+| | PyTorch 2.12 | 12.6 | 9.10 | Ubuntu 24.04 |
 | v8.0.0 | TensorFlow 2.20 | 12.5 | 9.3 | Ubuntu 22.04 |
 | | PyTorch 2.10 | 12.6 | 9.10 | Ubuntu 22.04 |
-| v7.0.1 | TensorFlow 2.19 | 12.5 | 9.3 | Ubuntu 22.04 |
-| | PyTorch 2.7 | 12.6 | 9.5 | Ubuntu 22.04 |
 
 このソフトウェアにはNVIDIA Corporationで<br> 提供したソースコードが含まれています。 [License](https://docs.nvidia.com/deeplearning/cudnn/latest/reference/eula.html)
 
