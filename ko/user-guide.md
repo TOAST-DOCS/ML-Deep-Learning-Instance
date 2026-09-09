@@ -18,8 +18,8 @@ Deep Learning Instance에서는 다음과 같은 버전의 소프트웨어가 �
 |---------|------------------------|-------------|--------------|-----|
 | v9.0.0 | TensorFlow 2.21 | 12.5 | 9.3 | Ubuntu 24.04 |
 | | PyTorch 2.12 | 12.6 | 9.10 | Ubuntu 24.04 |
-| v8.0.0 | TensorFlow 2.20 | 12.5 | 9.3 | Ubuntu 22.04 |
-| | PyTorch 2.10 | 12.6 | 9.10 | Ubuntu 22.04 |
+| v8.1.0 | TensorFlow 2.20 | 12.5 | 9.3 | Ubuntu 24.04 |
+| | PyTorch 2.10 | 12.6 | 9.10 | Ubuntu 24.04 |
 
 NVIDIA cuDNN 이 소프트웨어에는 NVIDIA Corporation에서 제공한 소스 코드가 포함되어 있습니다. [License](https://docs.nvidia.com/deeplearning/cudnn/latest/reference/eula.html)
 
