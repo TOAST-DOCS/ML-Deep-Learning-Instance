@@ -1,6 +1,12 @@
-## Machine Learning > Deep Learning Instance > User Guide
+<!-- machine_translated: true -->
 
-## Create a Deep Learning Instance
+<!-- pre-align:aligned sig=b04e267f91c6 -->
+
+<a id="machine-learning-deep-learning-instance-user-guide"></a>
+## Machine Learning > Deep Learning Instance > User Guide { #machine-learning-deep-learning-instance-user-guide }
+
+<a id="create-a-deep-learning-instance"></a>
+## Create a Deep Learning Instance { #create-a-deep-learning-instance }
 
 To use the Deep Learning Instance, you must first create an instance.
 
@@ -11,11 +17,11 @@ Click the **Create Deep Learning Instance** button, and you will be taken to **M
 Deep Learning Framework Instance provides the following versions of software:
 
 | Version | Deep Learning Framework | NVIDIA CUDA | NVIDIA cuDNN | OS |
-| --- | --- | --- | --- | --- |
-| v8.0.0 | TensorFlow 2.20 | 12.5 | 9.3 | Ubuntu 22.04 |
-| | PyTorch 2.10 | 12.6 | 9.10 | Ubuntu 22.04 |
-| v7.0.1 | TensorFlow 2.19 | 12.5 | 9.3 | Ubuntu 22.04 |
-| | PyTorch 2.7 | 12.6 | 9.5 | Ubuntu 22.04 |
+|---------|------------------------|-------------|--------------|-----|
+| v9.0.0 | TensorFlow 2.21 | 12.5 | 9.3 | Ubuntu 24.04 |
+| | PyTorch 2.12 | 12.6 | 9.10 | Ubuntu 24.04 |
+| v8.1.0 | TensorFlow 2.20 | 12.5 | 9.3 | Ubuntu 24.04 |
+| | PyTorch 2.10 | 12.6 | 9.10 | Ubuntu 24.04 |
 
 This software includes the source code <br> provided by NVIDIA Corporation. [License](https://docs.nvidia.com/deeplearning/cudnn/latest/reference/eula.html)
 
@@ -30,7 +36,8 @@ If you want to use Anaconda or Miniconda as your Python package manager and use 
 
 After completing the setup, create an instance. For more information on instance creation, see [Instance Overview](http://docs.toast.com/en/Compute/Instance/en/overview/).
 
-## Check Installed Development Environment
+<a id="check-installed-development-environment"></a>
+## Check Installed Development Environment { #check-installed-development-environment }
 
 Use the conda command to check the development environment installed by Miniconda.
 
@@ -49,7 +56,8 @@ tf2_py38                 /root/miniconda3/envs/tf2_py38
 >
 >For more detailed instructions, refer to [Miniconda documentation](https://docs.conda.io/en/latest/miniconda.html).
 
-## How to Use TensorFlow
+<a id="how-to-use-tensorflow"></a>
+## How to Use TensorFlow { #how-to-use-tensorflow }
 
 First, activate the TensorFlow environment.
 
@@ -98,7 +106,8 @@ $ ./train.sh
 >
 >For more detailed instructions, refer to [TensorFlow Tutorial](https://www.tensorflow.org/tutorials).
 
-## How to Use PyTorch
+<a id="how-to-use-pytorch"></a>
+## How to Use PyTorch { #how-to-use-pytorch }
 
 First, activate the PyTorch environment.
 
