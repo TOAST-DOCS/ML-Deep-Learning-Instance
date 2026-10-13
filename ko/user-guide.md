@@ -32,7 +32,7 @@ Anaconda나 Miniconda를 Python 패키지 관리자로 사용하여 Anaconda의 
 
 ![deeplearninginstance_guide_ko_02_20211013.png](https://static.toastoven.net/prod_deep_learning_instance/deeplearninginstance_guide_ko_02_20211013.png)
 
-설정을 완료한 후 인스턴스를 생성합니다. 인스턴스 생성에 대한 자세한 내용은 [Instance 개요](http://docs.toast.com/ko/Compute/Instance/ko/overview/)를 참고하시기 바랍니다.
+설정을 완료한 후 인스턴스를 생성합니다. 인스턴스 생성에 대한 자세한 내용은 [Instance 개요](https://docs.nhncloud.com/ko/Compute/Instance/ko/overview/)를 참고하시기 바랍니다.
 
 <a id="check-installed-development-environment"></a>
 ## 설치된 개발 환경 확인 { #check-installed-development-environment }

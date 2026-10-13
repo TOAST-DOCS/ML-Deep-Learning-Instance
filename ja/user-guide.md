@@ -34,7 +34,7 @@ AnacondaやMinicondaをPythonパッケージマネージャとして使用して
 
 ![deeplearninginstance_guide_ja_02_20211013.png](https://static.toastoven.net/prod_deep_learning_instance/deeplearninginstance_guide_ja_02_20211013.png)
 
-設定を完了した後にインスタンスを作成します。インスタンス作成の詳細については[Instance概要](http://docs.toast.com/ja/Compute/Instance/ja/overview/)を参照してください。
+設定を完了した後にインスタンスを作成します。インスタンス作成の詳細については[Instance概要](https://docs.nhncloud.com/ja/Compute/Instance/ja/overview/)を参照してください。
 
 <a id="check-installed-development-environment"></a>
 ## インストールされた開発環境の確認 { #check-installed-development-environment }

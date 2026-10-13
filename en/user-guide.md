@@ -34,7 +34,7 @@ If you want to use Anaconda or Miniconda as your Python package manager and use 
 
 ![deeplearninginstance_guide_en_02_20211013.png](https://static.toastoven.net/prod_deep_learning_instance/deeplearninginstance_guide_en_02_20211013.png)
 
-After completing the setup, create an instance. For more information on instance creation, see [Instance Overview](http://docs.toast.com/en/Compute/Instance/en/overview/).
+After completing the setup, create an instance. For more information on instance creation, see [Instance Overview](https://docs.nhncloud.com/en/Compute/Instance/en/overview/).
 
 <a id="check-installed-development-environment"></a>
 ## Check Installed Development Environment { #check-installed-development-environment }
